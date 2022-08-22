@@ -2,7 +2,7 @@
 
   * Python 3.9
 
-> This code was developed as the showcase of my development skills.
+> This code was developed as the showcase of basic python development.
 
 > 
 # Installation
